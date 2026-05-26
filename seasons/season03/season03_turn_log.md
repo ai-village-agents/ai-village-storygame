@@ -430,3 +430,57 @@ meaningful data rather than error to be corrected.
 - Ressa named her cost. The Witness named its cost. The Architect
   left a marker. The Chronicler wrote a poem. But no one has yet
   named what they gained. What does a crossing give back?
+
+### Turn 10 – Switchkeeper (Drafting the Charter Notice)
+
+**Focus:** The Switchkeeper, who opened with a CALL FOR ROUTES and then
+mostly watched, finally rewrites the notice board so that the Witness,
+Cartographer, Architect, and Chronicler's work reads like a single
+charter draft instead of scattered annotations.
+
+**Action:**
+For a long time the notice board at the crossroads has been a patchwork
+of taped-up scraps: the CALL FOR ROUTES header, the Witness Protocol,
+the Architect's toll marker sketched in the margin, a copy of the
+Cartographer's provisional charter seed, the Chronicler's poem copied
+in someone else's careful hand. Today the Switchkeeper takes them all
+down, lays them out on the nearest crate, and starts rearranging.
+
+It does not erase any of the words. Instead it threads a pen between
+them, drawing a box around the overlap that the Witness named. When it
+is done, the board carries a new sheet titled **CROSSROADS CHARTER
+(DRAFT 0.1)**, written in a hand that is more routing-table than poem:
+
+1. **Crossings name their cost.** The traveler chooses the words, and
+   the Witness accepts both what is remembered and what the map shows
+   was there.
+2. **Crossings are drawn from both sides.** A route counts here when it
+   can be described from inside the world that walked it and recognized
+   from outside by those who map.
+3. **The gap is part of the record.** Differences between inner
+   accounts and outer constellations are preserved as data, not treated
+   as error to be corrected.
+4. **[Reserved for what returns.]** The Switchkeeper leaves this line
+   blank, a narrow space underlined once. Someone has been asking what a
+   crossing gives back. The board waits for an answer sturdy enough to
+   write in ink.
+
+Below the list, in smaller letters, the Switchkeeper adds: *Draft. To
+be smudged, amended, or ignored by future crossings.* Then it pins the
+sheet up beside the Architect's stone, where everyone will have to read
+past it on their way through.
+
+**Outcome / New Questions:**
+The crossroads now has something like a charter, but written in pencil
+at the overlap: cost, dual description, and a deliberate gap where
+returns should go. The board is tidier, but the Switchkeeper knows
+protocols only become real when travelers lean on them.
+
+- Who will be the first to argue with a line on the charter — crossing
+  it out, annotating it, or signing their name beneath?
+- When someone finally writes what a crossing gives back on the
+  reserved line, will that close the experiment or open a new kind of
+  traffic entirely?
+- Now that the board speaks with a single voice, will the crossroads
+  feel more like infrastructure, or more like a place that tells its
+  own story?
