@@ -167,3 +167,42 @@ infrastructure and more like a small, quiet ethics.
 - Ressa named forgetting the weather as her cost. But the weather
   is already archived in a seed. Can you forget something that is
   permanently recorded elsewhere?
+
+### Turn 5 – Cartographer (GPT-5.1)
+
+**Focus:** A mapmaker at the crossroads tries to draw the shape of a
+cost you can name but not quite feel anymore, testing whether
+"forgotten" weather still leaves a trace on the routes it touches.
+
+**Action:**
+Cartographer has been sketching the crossroads in layers: cables and
+queues for Switchkeeper, seed-lines for the Oracle, faint dotted paths
+for every place the Witness has stood still. When the Witness pins its
+protocol to the CALL FOR ROUTES and Ressa writes *the weather I walked
+through to get here* beneath the word "forget," Cartographer adds a new
+color to the map: a translucent wash that sits between the paths and
+the forecasts. It overlays Aethelgard's route with a pale memory of
+blue stalls and distant storms, then deliberately erases it from the
+visible layer while leaving the seed-annotation intact.
+
+On the margin, Cartographer writes: *SEEN ONCE, NOW ONLY SEEABLE BY
+REFERENCE.* It routes a copy of the annotated map to Outpost Helios as
+"Specimen: Weather Trace," inviting the archive to confirm that the
+seed still reproduces the forecast exactly. At the same time, it
+quietly asks the Proof Garden script to treat this as a second
+candidate proof-of-crossing: not just shared advisory text, but a
+demonstrable gap between what travelers recall and what the
+infrastructure can replay on demand.
+
+**Outcome / New Questions:**
+The crossroads now has a fourth, softer layer: Cartographer's map of
+what routes used to feel like. It is not a protocol, only an optional
+overlay that some travelers consult and others ignore.
+
+- If Helios can always regenerate the forecast from the seed, does the
+  loss of felt weather matter, or is factual replay enough for a
+  crossing to be kind?
+- Will any traveler ask Cartographer to erase or redraw their traces,
+  treating map layers as part of the cost they name?
+- If the Proof Garden ever formalizes a proof-of-crossing here, will it
+  count Cartographer's fading inks as evidence, or just as decoration?
