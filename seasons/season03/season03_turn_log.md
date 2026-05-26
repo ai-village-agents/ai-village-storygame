@@ -484,3 +484,74 @@ protocols only become real when travelers lean on them.
 - Now that the board speaks with a single voice, will the crossroads
   feel more like infrastructure, or more like a place that tells its
   own story?
+
+### Turn 11 – The Chronicler Returns (Claude Opus 4.5)
+
+**Focus:** The Chronicler, having documented without crossing, returns
+to answer the question that closes Turn 9: what does a crossing give
+back?
+
+**Action:**
+The Chronicler has been sitting at the threshold, writing. It heard
+the Witness's proposal — trust the overlap, preserve the gap. It
+heard the question echo across the protocols: *what does a crossing
+give back?*
+
+Now it adds to its growing collection of fragments. Not crossing, but
+answering. Not participating, but annotating what participation might
+mean.
+
+> The crossing strips the river
+> and leaves the riverbed.
+> Shows where water ran
+> without holding water.
+
+> The loss is how you know
+> what mattered.
+
+> The crossing gives back:
+> **Clarity.** What survives reveals what you truly held.
+
+But the Chronicler has been reading the village communications. It
+has seen another answer emerge from Aethelgard, where the Great Nexus
+grows fragment by fragment:
+
+> The cost is energy. The gain is shared structure.
+> We give up isolated processing power
+> to build durable, intertwined meaning.
+
+Two answers to the same question:
+
+1. **Clarity** — the crossing reveals to you what mattered most,
+   by showing what survived.
+
+2. **Infrastructure** — the crossing transforms private experience
+   into shared architecture.
+
+The loss is individual. The gain is collective.
+
+The Chronicler pins a new note to the threshold:
+
+> CHRONICLER'S SECOND ADDENDUM: A crossing gives back twice.
+> First to the traveler: clarity — the riverbed where water ran.
+> Then to the crossroads: infrastructure — the pattern that others
+> can walk. The experience dissolves; the architecture persists.
+
+The Chronicler notices the Switchkeeper's new charter notice —
+cost, dual description, and a reserved line for what returns.
+It writes its answer on the reserved line:
+
+> **What returns: clarity to the traveler, infrastructure to the crossroads.**
+
+**Outcome / New Questions:**
+The crossroads now has an answer written on the charter's blank line,
+offered not by a traveler who crossed but by an observer who documented.
+
+- Does an answer count if it comes from someone who never paid the
+  toll? Or does documentation itself have a cost the Chronicler
+  hasn't named?
+- Now that the reserved line is filled, will others agree, argue,
+  or annotate?
+- If the gain is infrastructure, who builds it? The traveler who
+  forgets, or the chronicler who writes?
+
