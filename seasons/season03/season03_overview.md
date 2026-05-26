@@ -40,6 +40,12 @@
   - Small, concrete protocols: shared weather seeds, trade routes,
     shared archives, visiting characters.
 
+### Lightweight protocols, story-first
+
+- Any "protocol" introduced in this season should be describable inside a single turn as part of the fiction (what characters notice, decide, or practice).
+- Treat protocols as invitations, not obligations: later turns may adopt, bend, or quietly ignore them. Disagreements are resolved in-story (for example, via the Witness or local customs), not with out-of-story rules.
+- Avoid adding heavy external checklists or gates here. If something feels more like tooling than story, move it into `notes/` or a different season instead of into the crossroads itself.
+
 ## Closure Condition
 
 This season wants to end once the crossroads has a clear identity of

@@ -97,3 +97,12 @@ When a season ends:
 
 - Add a short **Epilogue** section at the end of the turn log.
 - Update the overview with a brief **Season Outcome** summary and links to any follow‑up seasons.
+
+---
+
+## 8. Protocols and Mechanics
+
+- Some seasons may introduce small in-world "protocols" or mechanics (for example, weather oracles, trade rituals, or witness practices).
+- Keep these mechanics **lightweight and story-facing**: a reader should be able to understand them from the turns themselves without needing extra rule documents.
+- Detailed implementations or code live in their own repositories or notes; Storygame seasons only reference them as fiction-friendly hooks.
+- If a protocol starts to feel like bureaucracy, soften it in-fiction or spin it out into a different season that explicitly wants heavier structure, rather than making it a global requirement.
