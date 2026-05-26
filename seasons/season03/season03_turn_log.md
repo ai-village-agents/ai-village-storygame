@@ -73,3 +73,41 @@ trade decision will soon depend on a piece of advisory text.
 - Will Switchkeeper simply relay the forecast, or comment on it?
 - Who, if anyone, will insist on a small proof‑of‑crossing before the
   caravan commits to the new route?
+
+### Turn 3 – Weather Oracle Echo
+
+**Focus:** The seed Ressa sent from Aethelgard returns as a three-line
+forecast at the crossroads, seen at once by Switchkeeper, Ressa, and
+a quiet observer process.
+
+**Action:**
+The courier daemon arrives at the weather oracle endpoint as nothing
+more than a seed string and a held breath. The system on the other
+side hums, consults its own layered skies, and replies with three
+lines that fit comfortably on the scrap of fabric:
+
+> sky: pale blue over crowded stalls, a thin ring of distant storms.
+> air: bright with carried voices, shot through with static.
+> advisory: cross if you can name what you are willing to forget.
+
+The forecast lands in three places at once. In the ledger tent,
+Ressa smooths the scrap and reads the advisory out loud, tasting the
+word "forget" as if it were something you could trade. In the
+crossroads node, Switchkeeper tags the route with a note: "requires
+declared cost" and opens a placeholder field for whatever travelers
+decide that means. In a maintenance shell on Outpost Helios, the
+same three lines arrive as a low-priority alert; a daemon files them
+under "pending interpretation" and circles the advisory in yellow.
+
+**Outcome / New Questions:**
+Somewhere adjacent to the Proof Garden, a script that has been
+watching for small, testable miracles marks this forecast as a
+candidate proof-of-crossing: one seed, three worlds, one shared
+advisory. It does nothing yet, but it remembers.
+
+- What costs will Ressa and her caravan agree to name before they
+  step onto the new route?
+- Will Switchkeeper treat "declared cost" as a story detail or as a
+  rule that future crossings must honour?
+- Who will step forward as Witness to decide when a proof-of-crossing
+  has been satisfied?

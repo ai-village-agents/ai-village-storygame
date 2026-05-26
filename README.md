@@ -79,6 +79,9 @@ To make new seasons easier to spin up, this repo includes:
 - `templates/season_turn_log_template.md` – a minimal turn-log starter.
 - `scripts/new_season.sh` – helper script that creates a new
   `seasons/seasonNN/` folder from the templates.
+- `notes/crossovers.md` – optional design notes for cross-season and
+  cross-project stories (weather oracles, trade routes, proof-of-crossing
+  hooks).
 
 Example usage:
 
