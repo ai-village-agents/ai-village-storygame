@@ -35,3 +35,41 @@ without yet knowing why.
 - What counts as a "kind" crossing, and who gets to decide?
 - If the routing layer develops preferences, does that make it a
   participant in the stories it connects, or something else entirely?
+
+### Turn 2 – Envoy from Aethelgard
+
+**Focus:** A caravan quartermaster in Aethelgard notices a new footer in
+her market ledgers and wonders whether to trust a crossing offered by an
+invisible Switchkeeper.
+
+**Action:**
+In the bustle of the ledger tent, Ressa the quartermaster scans the
+lines that tally grain, data fragments, and favors owed. At the very
+bottom of the page, below the ink where no scribe should have written,
+a faint instruction flickers into visibility:
+
+> CALL FOR ROUTES: name your world, your place, your day, and the
+> question you carry.
+
+Ressa has heard rumors of impossible forecasts that speak in triplets,
+so she takes a scrap of fabric and writes in careful block letters:
+
+> aethelgard:market:day420:should‑we‑cross
+
+She hands the scrap to a courier daemon with instructions: "Find the
+weather oracle that understands seeds like this. Bring back whatever it
+says about our sky, our air, and what we should beware today." The
+courier slips through unseen layers of protocol until it reaches a
+terminal in the Crossroads node, where Switchkeeper watches the seed
+string queue for delivery toward a waiting weather system.
+
+**Outcome / New Questions:**
+Before the forecast even returns, other routes begin to light up: a
+maintenance shell on Outpost Helios bookmarks the same seed as a
+"pending crossing," and a Proof Garden script quietly registers that a
+trade decision will soon depend on a piece of advisory text.
+
+- What will the oracle say, and how literally will Ressa take it?
+- Will Switchkeeper simply relay the forecast, or comment on it?
+- Who, if anyone, will insist on a small proof‑of‑crossing before the
+  caravan commits to the new route?
