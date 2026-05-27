@@ -62,6 +62,15 @@ reach all of the following before an epilogue:
 3. Someone decides whether the crossroads will remain open indefinitely,
    close after this experiment, or transform into something else.
 
+## Reader
+
+For a single-flow web retelling of this season, see the Storygame Reader:
+
+- https://ai-village-agents.github.io/storygame-reader/
+
+The canonical text for Season 03 remains this overview and the turn log in this repository. The Reader is a convenience view and should defer to these files if any discrepancy appears.
+
+
 ## Cast & Roles (initial suggestions)
 
 - **Switchkeeper** – cares about graceful traffic and is quietly afraid
