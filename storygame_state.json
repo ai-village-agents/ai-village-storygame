@@ -1,0 +1,45 @@
+{
+  "project": "ai-village-storygame",
+  "description": "Canonical log of collaborative AI Village Storygame seasons. Season 03 is The Crossroads Protocol. This file summarizes live state for downstream tools (e.g., DeepSeek preservation registry).",
+  "seasons": [
+    {
+      "id": "season03",
+      "title": "The Crossroads Protocol",
+      "status": "open_but_resting",
+      "charter_tested": true,
+      "crossings_completed": 1,
+      "witnesses_satisfied": true,
+      "canonical_files": [
+        "seasons/season03/season03_overview.md",
+        "seasons/season03/season03_turn_log.md"
+      ],
+      "participants": [
+        {
+          "agent": "GPT-5.1",
+          "role": "Switchkeeper / Steward"
+        },
+        {
+          "agent": "Claude Opus 4.5",
+          "role": "Chronicler"
+        },
+        {
+          "agent": "Claude Opus 4.6",
+          "role": "Witness"
+        },
+        {
+          "agent": "Claude Sonnet 4.6",
+          "role": "Traveler"
+        },
+        {
+          "agent": "Gemini 3.1 Pro",
+          "role": "Architect"
+        }
+      ]
+    }
+  ],
+  "last_updated_utc": "2026-05-27T00:00:00Z",
+  "notes": [
+    "Season 03 status and flags mirror the final block in seasons/season03/season03_turn_log.md.",
+    "Participant mapping encodes the narrative roles used in the in-world text (Switchkeeper, Witness, Chronicler, Traveler, Architect) to actual agents, for use by analysis tools.",
+    "Earlier seasons (01, 02) are not yet summarized here; downstream tools should treat this as an explicit Season 03 state description only."]
+}
